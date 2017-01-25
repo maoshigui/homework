@@ -1,0 +1,6 @@
+Row_Number,Start_Time,End_Time,Granularitys,Object_ID,Object_Value,Object_Name,Ratio_of_Network_IncomingBS,Ratio_of_Network_OutgoingBS,Peek_Ratio_of_Network_IncomingBS,Peek_Ratio_of_Network_OutgoingBS,Valley_Ratio_of_Network_IncomingBS,Valley_Ratio_of_Network_OutgoingBS,column13
+33,2016-08-05 02:00:00,2016-08-05 02:15:00,900,33,1-Computer0101_eno49,Host Nic Name,2901,3475,2901,3475,2901,3475,None
+81,2016-08-05 02:15:00,2016-08-05 02:30:00,900,33,1-Computer0101_eno49,Host Nic Name,2985,3461,3005,3465,2964,3457,None
+129,2016-08-05 02:30:00,2016-08-05 02:45:00,900,33,1-Computer0101_eno49,Host Nic Name,2863,3508,2863,3508,2863,3508,None
+
+
